@@ -2,6 +2,9 @@
 
 Authentication and authorization for NovaPay. Issues JWTs for merchants.
 
+## Issue 21 Changes
+- Implemented enhanced security measures for JWT handling.
+
 ## Setup Instructions
 1. Clone the repository: `git clone https://github.com/shonbase12/auth-service.git`
 2. Navigate to the project directory: `cd auth-service`
